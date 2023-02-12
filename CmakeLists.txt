@@ -1,0 +1,3 @@
+project(LeetCode)
+
+add_executable(lc helloworld.cpp)
